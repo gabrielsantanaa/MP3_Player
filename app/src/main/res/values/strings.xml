@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="init_duration">00:00</string>
+</resources>
